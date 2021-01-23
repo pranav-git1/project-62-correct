@@ -5,3 +5,10 @@ img{
 body{
     text-align: center;
 }
+h3{
+    color: white;
+}
+.slider{
+ height: 500px;
+ width: 1200px;
+}
